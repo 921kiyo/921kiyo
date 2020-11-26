@@ -1,11 +1,13 @@
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=921kiyo&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=921kiyo&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php">
-</p>
+<a href="https://github.com/mzjp2">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=921kiyo&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true"
+</a>
+<a href="https://github.com/mzjp2">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=921kiyo&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php"
+</a>
 
 <!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=pixel-weather">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=921kiyo&repo=ytdx">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=921kiyo&repo=pixel-weather">
 </p> -->
 
 
