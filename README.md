@@ -1,4 +1,4 @@
-# Hello, I'm Kiyo 👋
+# Hello, I'm Kiyo 😃
 - 🔭 I’m a machine learning engineer at [@quantumblacklabs](https://github.com/quantumblacklabs)
 - 🏠 🇯🇵Tokyo-> 🏴󠁧󠁢󠁳󠁣󠁴󠁿Edinburgh -> 🇬🇧London (current)
 - 🎓 MSc at Imperial College London, MA in the University of Edinburgh.
