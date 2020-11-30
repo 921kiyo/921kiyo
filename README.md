@@ -3,7 +3,7 @@
 - 🎓 MSc at Imperial College London, MA in the University of Edinburgh.
 - 🏠 🇯🇵Tokyo-> 🏴󠁧󠁢󠁳󠁣󠁴󠁿Edinburgh -> 🇬🇧London (current)
 - 🤔 How do you pronouce my name: Kee-yo, not Kah-yo
-- 🌐 Visit my website 🇬🇧 https://921kiyo.com 🇯🇵 https://www.921kiyo.net/ (日本語)
+- 🌐 Visit my website 🇬🇧 https://921kiyo.com/ 🇯🇵 https://www.921kiyo.net/ (日本語)
 - 📫 How to reach me: Twitter 🇬🇧[@921kiyo](https://twitter.com/921kiyo) 🇯🇵[@921kiyo_jp](https://twitter.com/921kiyo_jp) (日本語)
 
 <a href="https://github.com/mzjp2">
