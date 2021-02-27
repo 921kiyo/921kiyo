@@ -8,7 +8,5 @@
 
 <a href="https://github.com/921kiyo">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=921kiyo&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php"/> 
-</a>
-<a href="https://github.com/921kiyo">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=921kiyo&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true"/> 
 </a>
