@@ -4,8 +4,8 @@
 - 🏠 🇯🇵 Tokyo-> 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Edinburgh -> 🇬🇧 London (current)
 - 🤔 How do you pronouce my name? Kee-yo, not Kah-yo
 
-# Tech stacks :technologist:
-- Python, Spark, C++, Java, JavaScript, Rust, Go, Kotlin
+# Tech stack :technologist:
+- Python, Spark, C++, Java, JavaScript, Rust, Go
 - Docker, Kubernetes, AWS, Azure
 
 # Get in touch :wave:
