@@ -1,14 +1,14 @@
-# Hello, I'm Kiyo 😃
+# Hello, I'm Kiyo!
 - 🔭 Machine learning engineer at [@quantumblacklabs](https://github.com/quantumblacklabs)
 - 🎓 MSc at Imperial College London, MA at the University of Edinburgh
 - 🏠 🇯🇵 Tokyo-> 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Edinburgh -> 🇬🇧 London (current)
-- 🤔 How do you pronouce my name? Kee-yo, not Kah-yo
+- How do you pronouce my name? Kee-yo, not Kah-yo
 
-# Tech stack :technologist:
+# Tech stack:
 - Python, Spark, C++, Java, JavaScript, Rust, Go
 - Docker, Kubernetes, AWS, Azure
 
-# Get in touch :wave:
+# Get in touch:
 - 🌐 Visit my website 🇬🇧 https://www.921kiyo.com/ 🇯🇵 https://www.921kiyo.net/ (日本語)
 - 📫 How to reach me: Twitter 🇬🇧 [@921kiyo](https://twitter.com/921kiyo) 🇯🇵 [@921kiyo_jp](https://twitter.com/921kiyo_jp) (日本語)
 
