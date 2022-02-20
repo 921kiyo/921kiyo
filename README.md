@@ -1,5 +1,5 @@
 # Hello, I'm Kiyo!
-- 🔭 Machine learning engineer at [@quantumblacklabs](https://github.com/quantumblacklabs)
+- 🔭 Machine learning engineer at [@quantumblacklabs](https://github.com/quantumblacklabs), and an early active commiter of [Kedro open source project](https://github.com/kedro-org/kedro/graphs/contributors)
 - 🎓 MSc at Imperial College London, MA at the University of Edinburgh
 - 🏠 🇯🇵 Tokyo-> 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Edinburgh -> 🇬🇧 London (current)
 - How do you pronouce my name? Kee-yo, not Kah-yo
