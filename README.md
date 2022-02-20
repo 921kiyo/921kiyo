@@ -6,7 +6,7 @@
 
 # Tech stack:
 - Python, Spark, C++, Java, JavaScript, Rust, Go
-- Docker, Kubernetes, AWS, Azure
+- Docker, Kubernetes, AWS, Azure, Github Actions, CircleCI
 
 # Get in touch:
 - 🌐 Visit my website 🇬🇧 https://www.921kiyo.com/ 🇯🇵 https://www.921kiyo.net/ (日本語)
