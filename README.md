@@ -1,5 +1,5 @@
 # Hello, I'm Kiyo!
-- A founder of [RealityFold](https://realityfold.com/), an API for providing tailored synthetic data so data engineers can focus on building data pipelines without access to real data. 
+- A founder of [RealityFold](https://realityfold.com/), an API for providing tailored synthetic data so data engineers can focus on building data pipelines without access to real data 
 - Former commiter of [Kedro open source project](https://github.com/kedro-org/kedro/graphs/contributors)
 - 🎓 MSc at Imperial College London, MA at the University of Edinburgh
 - 🏠 🇯🇵 Tokyo-> 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Edinburgh -> 🇬🇧 London (current)
