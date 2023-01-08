@@ -17,5 +17,5 @@
 
 <a href="https://github.com/921kiyo"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=921kiyo&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true"/> 
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=921kiyo&hide_border=true&langs_count=3&theme=tokyonight&hide=jupyter%20notebook,tex,css,php,makefile,html,matlab,lasso"/>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=921kiyo&hide_border=true&langs_count=5&theme=tokyonight&hide=jupyter%20notebook,tex,css,php,makefile,html,matlab,lasso"/>
 </a>
