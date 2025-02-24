@@ -1,5 +1,5 @@
 # Hello, I'm Kiyo! 
-- Currently a co-founder and CTO of Opera Tech Ltd.
+- Currently a co-founder and CTO of Opera Tech.
 - Former ML engineer with various projects including MLOPs, LLM, Stable Diffusion image generation, data engineering etc. 
 - Former commiter of [Kedro](https://github.com/kedro-org/kedro), an open source Python framework for creating reproducible, maintainable and modular data science code.
 - 🎓 MSc at Imperial College London, MA at the University of Edinburgh
