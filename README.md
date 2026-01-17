@@ -16,4 +16,4 @@
   - 🇯🇵 https://www.921kiyo.net/ (日本語)
 - LinkedIn: https://www.linkedin.com/in/921kiyo/
 
-- 📫 How to reach me: Twitter 🇬🇧 [@921kiyo](https://twitter.com/921kiyo) 🇯🇵 [@921kiyo_jp](https://twitter.com/921kiyo_jp) (日本語)
+- 📫 How to reach me: X/Twitter 🇬🇧 [@921kiyo](https://x.com/921kiyo) 🇯🇵 [@921kiyo_jp](https://x.com/921kiyo_jp) (日本語)
