@@ -7,7 +7,7 @@
 - How do you pronouce my name? Kee-yo, not Kah-yo
 
 # Tech stack:
-- Python, TypeScript (Node.js, Remix.js), Rust, C/C++, Go
+- Python, TypeScript, Rust, C/C++, Go
 - Spark, Docker, Kubernetes, AWS, Azure, Github Actions, CircleCI
 
 # Get in touch:
