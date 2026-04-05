@@ -1,5 +1,5 @@
 # Hello, I'm Kiyo! 
-- Currently the Head of Agent Development, Engineering (Japan) at Sierra
+- Currently the Head of Agent Development, Engineering (Japan) at Sierra.
 - Former CTO & Co-founder of Opera Tech (accquired by Sierra).
 - Former ML engineer with various projects including MLOPs, LLM, Stable Diffusion image generation, data engineering etc. 
 - Former commiter of [Kedro](https://github.com/kedro-org/kedro), an open source Python framework for creating reproducible, maintainable and modular data science code.
